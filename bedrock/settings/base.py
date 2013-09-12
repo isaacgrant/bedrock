@@ -260,6 +260,9 @@ MINIFY_BUNDLES = {
             'css/mozorg/home.less',
             'css/mozorg/home-promo.less',
         ),
+        'home-b': (
+            'css/mozorg/home-b.less',
+        ),
         'marketplace': (
             'css/marketplace/marketplace.less',
         ),
@@ -505,6 +508,10 @@ MINIFY_BUNDLES = {
         ),
         'home': (
             'js/base/mozilla-pager.js',
+        ),
+        'home-b': (
+            'js/libs/jquery.jcarousel.min.js',
+            'js/mozorg/home-b.js',
         ),
         'marketplace': (
             'js/base/nav-main-resp.js',
