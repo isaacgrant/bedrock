@@ -259,6 +259,8 @@ MINIFY_BUNDLES = {
         'home': (
             'css/mozorg/home.less',
             'css/mozorg/home-promo.less',
+            'js/libs/video-js/video-js.css',
+            'js/libs/video-js/video-js-sandstone.css',
         ),
         'home-b': (
             'css/mozorg/home-b.less',
@@ -508,6 +510,8 @@ MINIFY_BUNDLES = {
         ),
         'home': (
             'js/base/mozilla-pager.js',
+            'js/libs/video-js/video.dev.js',
+            'js/mozorg/home.js',
         ),
         'home-b': (
             'js/libs/jquery.jcarousel.min.js',
